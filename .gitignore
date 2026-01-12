@@ -1,3 +1,6 @@
+
+llms/
+nb_fix.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
