@@ -1,6 +1,7 @@
 
 llms/
 nb_fix.py
+foundation/.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
